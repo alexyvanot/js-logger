@@ -1,0 +1,27 @@
+# js gitignore
+/node_modules/
+/dist/
+
+# mac
+.DS_Store
+
+# vscode
+.vscode/
+
+# idea
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# logs
+logs/
+*.log
+
+# build
+build/
+*.apk
+*.ap_
+
+# user json
+users.json
